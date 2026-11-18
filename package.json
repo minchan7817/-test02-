@@ -1,0 +1,7 @@
+{
+  "name": "ecosystem-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "초등학교 6학년 생태계 구성요소 분류 학습",
+  "scripts": { "test": "node --test tests/*.test.cjs" }
+}
